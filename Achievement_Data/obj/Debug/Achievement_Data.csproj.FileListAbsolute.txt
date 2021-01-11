@@ -1,0 +1,9 @@
+D:\ProjectStructure\AchievementDemo\Achievement_Data\bin\Debug\Achievement_Data.dll
+D:\ProjectStructure\AchievementDemo\Achievement_Data\bin\Debug\Achievement_Data.pdb
+D:\ProjectStructure\AchievementDemo\Achievement_Data\bin\Debug\Achievement_Domain.dll
+D:\ProjectStructure\AchievementDemo\Achievement_Data\bin\Debug\Achievement_Domain.pdb
+D:\ProjectStructure\AchievementDemo\Achievement_Data\obj\Debug\Achievement_Data.csprojAssemblyReference.cache
+D:\ProjectStructure\AchievementDemo\Achievement_Data\obj\Debug\Achievement_Data.csproj.CoreCompileInputs.cache
+D:\ProjectStructure\AchievementDemo\Achievement_Data\obj\Debug\Achievement_Data.csproj.CopyComplete
+D:\ProjectStructure\AchievementDemo\Achievement_Data\obj\Debug\Achievement_Data.dll
+D:\ProjectStructure\AchievementDemo\Achievement_Data\obj\Debug\Achievement_Data.pdb
